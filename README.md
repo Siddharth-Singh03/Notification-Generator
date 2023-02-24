@@ -1,4 +1,4 @@
-##Notification Generator
+## Notification Generator
 
 A notification generator is a tool or program that creates and sends notifications to users on different platforms or devices. These notifications can be in the form of pop-ups, sounds, messages, or alerts that provide information, updates, or reminders about specific events or activities.
 
